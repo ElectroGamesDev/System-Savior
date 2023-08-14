@@ -554,11 +554,4 @@ int main()
     SetConsoleCursorInfo(consoleHandle, &cursorInfo);
 
     FinalReport();
-
-    // DISM /Online /Cleanup-Image /CheckHealth
-    // DISM /Online /Cleanup-Image /ScanHealth
-    // dism /online /cleanup-image /restorehealth
-    // DISM /online /cleanup-image /startcomponentcleanup
-    // chkdsk /scan
-    // defrag
 }
