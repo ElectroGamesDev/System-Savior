@@ -5,5 +5,3 @@ System Savior is a utility tool that will declutter your computer, repair corrup
 
 The program should only take a few minutes to complete.
 Detailed logging/report is coming soon.
-
-System Savior is currently NOT open sourced.
